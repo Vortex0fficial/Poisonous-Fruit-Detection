@@ -10,5 +10,5 @@
 - Of course, these fruit don't really exist
 
 - The model determines whether fruit are poisnous or not based on characteristics listed above
-- The model was made for fun and practice, rather than practicality in the real world
+- The model was made for fun and practice, not practicality in the real world
   
