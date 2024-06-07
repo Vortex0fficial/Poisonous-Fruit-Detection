@@ -15,5 +15,5 @@
 
 - The .keras file contains the model
 - The .ipynb file contains the code for training the model
-- The csv file contains the training data
+- The .csv file contains the training data
 - The training data was automatically generated
