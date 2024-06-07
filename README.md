@@ -11,4 +11,9 @@
 
 - The model determines whether fruit are poisnous or not based on characteristics listed above
 - The model was made for fun and practice, not practicality in the real world
-  
+
+
+- The .keras file contains the model
+- The .ipynb file contains the code for training the model
+- The csv file contains the training data
+- The training data was automatically generated
